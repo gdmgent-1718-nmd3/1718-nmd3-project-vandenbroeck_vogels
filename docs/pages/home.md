@@ -7,8 +7,8 @@ permalink: home
 title: Opdracht NMD-III
 ---
 
-Wie zijn we?
-------------
-
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+wie zijn we?
+-------
+- Eva Vanden broeck, 2CMO-GD
+- Charlotte Vogels, 2CMO-GD<br>
+wij zijn twee studenten die crossmedia volgen op de school grafische en digitale media Arteveldehogeschool te Gent.

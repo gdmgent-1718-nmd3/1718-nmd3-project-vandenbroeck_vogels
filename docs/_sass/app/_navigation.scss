@@ -3,8 +3,9 @@
 $nav-link-indentation-base: 3rem;
 $nav-link-indentation-level: 1rem;
 
-.gdm-nav {
-  background-color: $dark;
+.gdm-nav { 
+  background: rgb(238, 233, 233);
+  background-image: "{{ site.baseurl }}/images/patroon.png" ; 
   counter-reset: nav-link-0;
   flex-wrap: nowrap;
 }
@@ -18,11 +19,12 @@ $nav-link-indentation-level: 1rem;
     position: absolute;
   }
   &.active {
-    background-color: $primary;
-    color: $light;
+    background-color: pink;
+    color: white;
   }
   &.disabled {
-
+    background-color: #C45989;
+    color: white;
   }
 }
 

@@ -6,5 +6,6 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-
+<h2> Eerste fase</h2>
+<img src= "{{ site.baseurl }}/images/wireframes_smartwatch.jpg" width='100%'>
 
