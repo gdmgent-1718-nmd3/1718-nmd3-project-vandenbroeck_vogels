@@ -9,7 +9,7 @@ title: Briefing
 
 Opdracht
 --------
-Een museum wil de bezoeker een nieuwe gebruikersbeleving geven door gebruik te maken van smartwatch en smartphone.
+We werken in groep één project uit dat bestaat uit verschillende deelopdrachten. De resultaten van de deelopdrachten kunnen deliverables zijn en/of een onderdelen van dit productiedossier. We creëeren een app voor een museum. Het museum dat we kozen is Technopolis. Het is de bedoeling om de bezoeker een nieuwe gebruikersbeleving te geven door gebruik te maken van smartwatch en smartphone.
 
 Teamleden
 ---------
@@ -19,5 +19,6 @@ Teamleden
 
 Gekozen Museum
 --------------
-Technopolis
+<img src="{{ site.baseurl }}/images/logo_technopolis.jpg" width="100%">
+
 

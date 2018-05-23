@@ -14,3 +14,24 @@ h2{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.colours__colour + .colours__colour {
+    margin-left:20px;
+}
+.colours__colour {
+    background-color: #EEE;
+    border: .25rem solid #FFF;
+    box-shadow: 0 0 1px #000;
+    padding: 20px;
+    float: left;
+    height: 150px;
+    width: 150px;
+}
+.colours__colour--a {
+    background-color: #2E436A;
+}
+.colours__colour--b {
+    background-color: #DD5C8D;
+}
+
+
+
