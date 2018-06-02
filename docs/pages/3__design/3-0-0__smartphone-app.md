@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Smartphone-app
 ---
+<img src="{{ site.baseurl }}/images/MOCK-phone.jpg" width="100%" >

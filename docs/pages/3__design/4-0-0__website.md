@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Website
 ---
+<img src="{{ site.baseurl }}/images/MOCK-site.jpg" width="100%" >

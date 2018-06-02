@@ -113,7 +113,7 @@ title: Screen Designs
     <img src="{{ site.baseurl }}/images/watch/Watch 42mm – 15.png" width="80%" >
   </div>
   <div class="col-3">
-    <img src="{{ site.baseurl }}/images/watch/Watch 42mm – 26.png" width="80%" >
+    <img src="{{ site.baseurl }}/images/watch/Watch 42mm – 16.png" width="80%" >
   </div>
   <div class="col-3">
     <img src="{{ site.baseurl }}/images/watch/Watch 42mm – 29.png" width="80%" >

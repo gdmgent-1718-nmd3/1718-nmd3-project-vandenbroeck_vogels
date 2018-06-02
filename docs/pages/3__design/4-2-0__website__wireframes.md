@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+<img src="{{ site.baseurl }}/images/wf site_Tekengebied 1.png" width="100%" >

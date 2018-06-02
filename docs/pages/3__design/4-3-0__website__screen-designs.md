@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+<img src="{{ site.baseurl }}/images/WEBSITE-Technopolis.png" width="100%" >

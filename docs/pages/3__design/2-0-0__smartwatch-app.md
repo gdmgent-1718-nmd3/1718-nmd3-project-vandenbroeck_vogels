@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
+<img src="{{ site.baseurl }}/images/MOCK-watch.jpg" width="100%" >
