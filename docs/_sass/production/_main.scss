@@ -27,12 +27,17 @@ h2{
     width: 150px;
 }
 .colours__colour--a {
+    background-color: #DD5C8D;
+    width: 500px;
+    height: 250px;
+}
+
+.colours__colour--b {
     background-color: #2E436A;
     width: 500px;
     height: 250px;
 }
-.colours__colour--b {
-    background-color: #DD5C8D;
+.colours__colour--c{
     width: 500px;
     height: 250px;
 }
@@ -41,5 +46,27 @@ h2{
     padding: 15px;
 }
 
+form {
+    background-color: #2E436A;
+    padding:15px;
+}
 
+.square-1{
+    width: 800px;
+    height: 250px;
+    background-color:#2E436A;
+    margin:20px;
+}
 
+.square-2{
+    width: 800px;
+    height: 250px;
+    background-color:#DD5C8D;
+    margin:20px;
+}
+
+.square-3{
+    width: 800px;
+    height: 250px;
+    margin:20px;
+}

@@ -4,13 +4,9 @@ permalink: design/ui-style-guide/kleuren/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Kleuren
+title: Kleuren en patronen
 ---
 
- <div class="colours clearfix">
-    <div class="colours__colour colours__colour--a"></div>
-    <div class="colours__colour colours__colour--b"></div>
-    <div class="colours__colour colours__colour"> <img src="{{ site.baseurl }}/images/patroon.png" width="300%">
-    </div>
- </div>
-
+<div class="square-1"></div>
+<div class="square-2"></div>
+<div class="square-3"> <img src="{{ site.baseurl }}/images/patroon.png" width="100%"></div>

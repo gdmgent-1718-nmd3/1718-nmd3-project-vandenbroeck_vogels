@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+<img src="{{ site.baseurl }}/images/ideaboard.jpg" width="100%">
