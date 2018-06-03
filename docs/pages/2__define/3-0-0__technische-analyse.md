@@ -7,6 +7,7 @@ published: true
 title: Technische Analyse
 ---
 <h2>Smartwatch</h2>
+<div class="container">
 <div class="row">
   <div class="col-4">
 <div class="card" style="width: 18rem;">
@@ -26,6 +27,7 @@ title: Technische Analyse
   </ul>
 </div>
 </div>
+
   <div class="col-4">
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="{{ site.baseurl }}/images/smartwatch_serie3_gps.jpg" width="120%">
@@ -65,8 +67,10 @@ title: Technische Analyse
 </div>
 </div>
 </div>
+</div>
 
 <h2>Smartphone</h2>
+<div class="container">
 <div class="row">
   <div class="col-4">
 <div class="card" style="width: 18rem;">
@@ -123,6 +127,7 @@ title: Technische Analyse
     <li class="list-group-item"><b>Height </b><br>
     5.45 inches (138.4 mm)<br> <b>Width</b> <br> 2.65 inches (67.3 mm)<br> <b>Depth</b> <br> 0.29 inch (7.3 mm)<br> <b> weight</b> <br> 5.22 ounces (148 grams)</li>
   </ul>
+</div>
 </div>
 </div>
 </div>
