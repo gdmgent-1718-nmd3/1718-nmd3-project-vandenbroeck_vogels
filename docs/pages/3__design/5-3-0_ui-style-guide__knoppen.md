@@ -9,22 +9,22 @@ title: Knoppen
 <h2>Smartwatch</h2>
 <div class="row">
     <div class="col-4">
-        <button type="button" class="btn btn-primary btn-lg btn-block">START</button>
+        <button type="button" class="btn btn-primary btn-block">START</button>
     </div>
     <div class="col-4">
-        <button type="button" class="btn btn-primary btn-lg btn-block">SPEL</button>
+        <button type="button" class="btn btn-primary btn-block">SPEL</button>
     </div>
     <div class="col-4">
-        <button type="button" class="btn btn-primary btn-lg btn-block">THEMA'S</button>
+        <button type="button" class="btn btn-primary btn-block">THEMA'S</button>
     </div>
 </div>
 
 <div class="row">
     <div class="col-4">
-        <button type="button" class="btn btn-light btn-lg btn-block text-secondary">SHOWS</button>
+        <button type="button" class="btn btn-light btn-block text-secondary">SHOWS</button>
     </div>
     <div class="col-4">
-        <button type="button" class="btn btn-light btn-lg btn-block text-secondary">PRAKTISCH</button>
+        <button type="button" class="btn btn-light btn-block text-secondary">PRAKTISCH</button>
     </div>
 </div>
 

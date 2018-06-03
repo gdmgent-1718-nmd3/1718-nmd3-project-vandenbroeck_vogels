@@ -9,9 +9,9 @@ title: Technische Analyse
 <h2>Smartwatch</h2>
 <div class="container">
 <div class="row">
-  <div class="col-4">
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="{{ site.baseurl }}/images/smartwatch_serie3_gpscellular.jpg" width="50%" >
+  <div class="col-sm">
+<div class="card" >
+  <img class="card-img-top" src="{{ site.baseurl }}/images/smartwatch_serie3_gpscellular.jpg" width="20%" >
   <div class="card-body">
     <h5 class="card-title">Apple watch</h5>
     <p class="card-text">Serie 3 GPS + cellular</p>
@@ -28,9 +28,9 @@ title: Technische Analyse
 </div>
 </div>
 
-  <div class="col-4">
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="{{ site.baseurl }}/images/smartwatch_serie3_gps.jpg" width="120%">
+  <div class="col-sm">
+<div class="card" >
+  <img class="card-img-top" src="{{ site.baseurl }}/images/smartwatch_serie3_gps.jpg" width="150%">
   <div class="card-body">
     <h5 class="card-title">Apple watch </h5>
     <p class="card-text">Serie 3 GPS</p>
@@ -47,8 +47,8 @@ title: Technische Analyse
   </ul>
 </div>
 </div>
-<div class="col-4">
-<div class="card" style="width: 18rem;">
+<div class="col-sm">
+<div class="card">
   <img class="card-img-top" src="{{ site.baseurl }}/images/smartwatch_serie1.jpg" >
   <div class="card-body">
     <h5 class="card-title">Apple watch</h5>
@@ -72,8 +72,8 @@ title: Technische Analyse
 <h2>Smartphone</h2>
 <div class="container">
 <div class="row">
-  <div class="col-4">
-<div class="card" style="width: 18rem;">
+  <div class="col-sm">
+<div class="card" >
   <img class="card-img-top" src="{{ site.baseurl }}/images/iphonex.jpg" >
   <div class="card-body">
     <h5 class="card-title">iPhone X</h5>
@@ -91,8 +91,8 @@ title: Technische Analyse
   </ul>
 </div>
 </div>
-  <div class="col-4">
-<div class="card" style="width: 18rem;">
+  <div class="col-sm">
+<div class="card" >
   <img class="card-img-top" src="{{ site.baseurl }}/images/iphone8_plus.jpg" >
   <div class="card-body">
     <h5 class="card-title">iPhone 8 Plus </h5>
@@ -110,8 +110,8 @@ title: Technische Analyse
   </ul>
 </div>
 </div>
-<div class="col-4">
-<div class="card" style="width: 18rem;">
+<div class="col-sm">
+<div class="card" >
   <img class="card-img-top" src="{{ site.baseurl }}/images/iphone8.jpg" >
   <div class="card-body">
     <h5 class="card-title">iPhone 8</h5>
