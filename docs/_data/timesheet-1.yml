@@ -6,29 +6,47 @@
   time: 3.00
   task: Briefing
 -
-  time: 2.50
+  time: 3.00
   task: Installatie in de les
+-
+  time: 18.00
+  task: Hoorcolleges
+-
+  time: 20.00
+  task: Werkcolleges
+-
+  time: 2.00
+  task: Voorbereiding elevator pitch
 -
   time: 3.00
   task: Bezoek Technopolis
 -
-  time: 1.00
+  time: 3.00
+  task: Voorstellingen elevator pitch
+-
+  time: 1.30
   task: Bespreking analyse
 -
-  time: 2.00
+  time: 5.00
   task: Analyse
 -
-  time: 3.00
+  time: 3.30
   task: Journey maps
 -
   time: 2.00
   task: Concept
 -
-  time: 1.00
+  time: 1.30
   task: Technische analyse
 -
-  time: 2.30
-  task: Wireflow smartwatch-app
+  time: 1.00
+  task: Ideabord
+-
+  time: 1.00
+  task: Styletiles
+-
+  time: 4.00
+  task: Wireflow smartwatch app
 -
   time: 3.00
   task: Paper prototype smartwatch-app
@@ -37,22 +55,28 @@
   task: Paper prototype gebruikertest
 -
   time: 3.00
-  task: Wireframes smartwatch app
+  task: Wireframes smartwatch app digitaal
 -
   time: 3.00
   task: Tweede bezoek aan technopolis
 -
-  time: 4.00
+  time: 18.00
   task: Werken aan productiedossier
 -
-  time: 4.00
+  time: 6.00
   task: Screendesign smartwatch app
 -
   time: 2.30
   task: Wireflow smartphone app
 -
-  time: 2.00
+  time: 6.00
   task: Screendesign smartphone app
 -
   time: 2.00
   task: Screendesign website
+-
+  time: 5.00
+  task: UI Style guide digitaal
+-
+  time: 4.00
+  task: Presentatie voorbereiden
